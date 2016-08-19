@@ -1,4 +1,3 @@
-layout_spectrum: 0.3101939419284463
 typography_spectrum: 0.789866748964414
 color:
   brandStrength: 0.1882353313267231
@@ -11,4 +10,6 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
+layout_spectrum: 0.3101939419284463
 name: Red Raven Design Ltd
+title: Architectural Design
